@@ -1,0 +1,1 @@
+select AVG(age) as age_average from etudiants;
